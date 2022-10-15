@@ -1,0 +1,13 @@
+body{
+    /* background-color: darkcyan;
+    background-color: aqua; */
+    background-image: url("https://culturacolectiva-cultura-colectiva-prod.cdn.arcpublishing.com/resizer/TGMKR2D2vYAtdskmozwxtONGaF0=/1024x768/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/culturacolectiva/VLWRRKQFT5HIPGVTJLMPLWL6OE.jpg");
+    /* sirve para que la imagen no se repita x para el lado horizontal y y para el lado a abajo*/
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    /* sirve para ajustar la pagina  */
+    background-size: 100%;
+    /* sirve para que la imagen se mueva con el texto o se quede quita */
+    background-attachment: fixed;
+}
